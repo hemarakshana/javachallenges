@@ -40,6 +40,7 @@ Here’s a breakdown of the topics covered:
 - **Day 27:** ATM Withdrawal with Balance Check
 - **Day 28:** Check Divisibility Rules (FizzBuzz)
 - **Day 29:** Convert Temperature (Celsius to Fahrenheit & Vice Versa)
+- **Day 30:** Water Bill Calculation 
 
 ## How to Download & Set Up Eclipse
 
