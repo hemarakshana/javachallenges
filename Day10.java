@@ -3,7 +3,7 @@
 Problem: Write a program that takes three numbers as input and prints the smallest number.
 Hint: Use if-elif-else conditions to compare the numbers.
 */
-
+ 
 package com.javachallenges;
 
 import java.util.Scanner;
