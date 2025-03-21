@@ -6,7 +6,7 @@ Welcome to my **Java Daily Challenges!** 🚀 This repository contains various c
 ## Topics Covered
 Here’s a breakdown of the topics covered:
 
-### 🔰 Basics
+### 🔰 Basics (Day 1 - 10)
 - **Day 1:** Print Statement
 - **Day 2:** Data Types
 - **Day 3:** Math Formulas
@@ -18,7 +18,7 @@ Here’s a breakdown of the topics covered:
 - **Day 9:** Find the Largest Number
 - **Day 10:** Find the Smallest Number
 
-### 🧮 Decision Making & Loops
+### 🧮 Decision Making & Loops (Day 11 - 20)
 - **Day 11:** Check Positive, Negative, or Zero
 - **Day 12:** Age-based Movie Ticket Price
 - **Day 13:** Grade Calculator
@@ -30,7 +30,7 @@ Here’s a breakdown of the topics covered:
 - **Day 19:** Age-based Movie Ticket Price
 - **Day 20:** Electricity Bill Calculation
 
-### 🔎 Logical & Conditional Problems
+### 🔎 Logical & Conditional Problems (Day 21 - 30)
 - **Day 21:** Validate Password Strength
 - **Day 22:** Traffic Light Simulation
 - **Day 23:** Check Eligibility to Vote
@@ -40,7 +40,19 @@ Here’s a breakdown of the topics covered:
 - **Day 27:** ATM Withdrawal with Balance Check
 - **Day 28:** Check Divisibility Rules (FizzBuzz)
 - **Day 29:** Convert Temperature (Celsius to Fahrenheit & Vice Versa)
-- **Day 30:** Water Bill Calculation 
+- **Day 30:** Water Bill Calculation
+
+### 💳 Pricing & Fare Calculations (Day 31 - 40)
+- **Day 31:** Railway Ticket Fare Calculation
+- **Day 32:** Time-based Greeting System
+- **Day 33:** Hotel Room Booking Price Calculation
+- **Day 34:** Ticket Pricing Based on Age & Time
+- **Day 35:** Internet Speed Categorization
+- **Day 36:** Student Scholarship Eligibility
+- **Day 37:** Validate Triangle Formation
+- **Day 38:** Convert Single Digit Number into Word
+- **Day 39:** Banking Loan Eligibility System
+- **Day 40:** Vehicle Speed Fine System
 
 ## How to Download & Set Up Eclipse
 
@@ -57,7 +69,6 @@ Here’s a breakdown of the topics covered:
 2. Right-click the package and select **New → Class**.
 3. Enter a class name (e.g., `Day1`) and check **public static void main(String[] args)**.
 4. Click **Finish**, and start coding!
-
 
 ## How to Run the Programs
 1. Clone the repository:
@@ -76,8 +87,6 @@ Here’s a breakdown of the topics covered:
 If you have suggestions or want to collaborate, feel free to open an issue or submit a pull request! 😊
 
 ## License
-This project is open-source and available for learning purposes.
+This project is open-source and available for learning
 
----
-✨ **Happy Coding!** I'll be updating ferquently the files. **New Beginning** ✨
-
+✨ **Happy Coding!** I'll be updating the files ferquently. **New Beginning** ✨
