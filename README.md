@@ -54,6 +54,18 @@ Here’s a breakdown of the topics covered:
 - **Day 39:** Banking Loan Eligibility System
 - **Day 40:** Vehicle Speed Fine System
 
+### 🔄 Loop & Pattern Problems (Day 41 - 50)
+- **Day 41:** Print Numbers from 1 to N
+- **Day 42:** Sum Calculation (Sum of First N Natural Numbers)
+- **Day 43:** Print All Even Numbers from 1 to N
+- **Day 44:** Factorial Calculation
+- **Day 45:** Pattern Printing - Square Pattern
+- **Day 46:** Complex Pattern 1
+- **Day 47:** Complex Pattern 2
+- **Day 48:** Calculate the Sum of an Array (Using for-loop and for-each loop)
+- **Day 49:** Find Greatest and Smallest Number in an Array
+- **Day 50:** Print a Right-Angled Triangle Pattern
+
 ## How to Download & Set Up Eclipse
 
 ### 🔹 Step 1: Install Eclipse IDE
@@ -87,6 +99,7 @@ Here’s a breakdown of the topics covered:
 If you have suggestions or want to collaborate, feel free to open an issue or submit a pull request! 😊
 
 ## License
-This project is open-source and available for learning
+This project is open-source and available for learning.
 
-✨ **Happy Coding!** I'll be updating the files ferquently. **New Beginning** ✨
+✨ **Happy Coding!** I'll be updating the files frequently. **New Beginning** ✨
+
