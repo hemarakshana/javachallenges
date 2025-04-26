@@ -66,7 +66,7 @@ Here’s a breakdown of the topics covered:
 - **Day 49:** Find Greatest and Smallest Number in an Array
 - **Day 50:** Print a Right-Angled Triangle Pattern
 
-### 📚 String Part-I
+### 📚 String Part-I (Day 51 - 60)
 - **Day 51** — String Introduction
 - **Day 52** — String Class Important Methods
 - **Day 53** — Count Of One Character In A Given String
