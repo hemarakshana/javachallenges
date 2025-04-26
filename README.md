@@ -56,7 +56,7 @@ Here’s a breakdown of the topics covered:
 
 ### 🔄 Loop & Pattern Problems (Day 41 - 50)
 - **Day 41:** Print Numbers from 1 to N
-- **Day 42:** Sum Calculation (Sum of First N Natural Numbers)
+- **Day 42:** Sum Calculation 
 - **Day 43:** Print All Even Numbers from 1 to N
 - **Day 44:** Factorial Calculation
 - **Day 45:** Pattern Printing - Square Pattern
@@ -65,6 +65,18 @@ Here’s a breakdown of the topics covered:
 - **Day 48:** Calculate the Sum of an Array (Using for-loop and for-each loop)
 - **Day 49:** Find Greatest and Smallest Number in an Array
 - **Day 50:** Print a Right-Angled Triangle Pattern
+
+### 📚 String Part-I
+- **Day 51** — String Introduction
+- **Day 52** — String Class Important Methods
+- **Day 53** — Count Of One Character In A Given String
+- **Day 54** — Printing Only The Numbers Present In A String
+- **Day 55** — Count Of Vowels In A Given String
+- **Day 56** — Count Of Each Character In A Given String
+- **Day 57** — Finding Duplicate Characters In A Given String
+- **Day 58** — Convert String To charArray
+- **Day 59** — Reversing A Given String
+- **Day 60** — Count Of Total Number Of Occurrences Of A Given Character In A String Without Using Loop
 
 ## How to Download & Set Up Eclipse
 
